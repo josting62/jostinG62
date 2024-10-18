@@ -1,28 +1,138 @@
+# <h1 align="center">Hola Mi Nombre es Jostin Gomez ✌️</h1>
 # 💫 Acerca de Mi:
-👋 ¡Hola! Soy un desarrollador Junior Front-End apasionado por el mundo del desarrollo web y en constante crecimiento en el desarrollo Back-End. Con 21 años y siendo Colombo-Venezolano, me encanta enfrentar nuevos desafíos y aprender cada día para mejorar mis habilidades.<br><br>🚀 Mi objetivo es aportar mis conocimientos en proyectos innovadores, donde pueda colaborar con equipos y seguir expandiendo mi experiencia. Aunque aún estoy al comienzo de mi carrera, tengo un fuerte deseo de aprender, mejorar y dar lo mejor de mí en cada reto.<br><br>✨ Me destaco por mi curiosidad, capacidad para resolver problemas y ganas de crecer en el campo del desarrollo de software. ¡Estoy abierto a colaborar en proyectos que me permitan seguir aprendiendo y aportar valor al mismo tiempo!<br><br>🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!
 
+<p>  👋 ¡Hola! Mucho gusto soy un desarrollador Junior Front-End apasionado por el mundo del desarrollo web y en constante crecimiento en el desarrollo Back-End. Con 21 años y siendo Colombo-Venezolano, me encanta enfrentar nuevos desafíos y aprender cada día para mejorar mis habilidades.</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jostin03_king) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jostin-gomez03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Jostin__G03) 
+<p text-align="justify">🚀 Mi objetivo es aportar mis conocimientos en proyectos innovadores, donde pueda colaborar con equipos y seguir expandiendo mi experiencia. Aunque aún estoy al comienzo de mi carrera, tengo un fuerte deseo de aprender, mejorar y dar lo mejor de mí en cada reto.</p>
+  
+<p>✨ Me destaco por mi curiosidad, capacidad para resolver problemas y ganas de crecer en el campo del desarrollo de software. ¡Estoy abierto a colaborar en proyectos que me permitan seguir aprendiendo y aportar valor al mismo tiempo!</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=josting62&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josting62&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josting62&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=josting62&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=josting62&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=josting62&icon=2&color=11)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/jostinG62) 
+### Spotify Playing 🎧
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22tcxkulhevldzsn4v63dbiey)
+
+
+## 🌐 Redes Sociales | Socials:
+<p align="center">
+  <a href="https://instagram.com/jostin03_king"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60"/></a>
+  <a href="https://linkedin.com/in/jostin-gomez03"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
+  <a href="https://x.com/@Jostin__G03"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="60" height="60"/></a>
+</p>
+
+---
+
+## 💻 Habilidades Tecnologicas | Tech Stack:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; margin-right: 20px;">
+
+### Lenguajes de Programacion | Programming Languages:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+</p>
+
+### Desarollo Front End | Front End Developer:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Router" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+  <img src="https://avatars.githubusercontent.com/u/19872199?s=280&v=4" alt="Strapi" width="60" height="60"/>
+</p>
+
+### Misc Tols:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+</p>
+
+<div style="flex: 1;">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ### Bases de Datos | Data Bases:
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  </p>
+
+  ### DevOps & SRE
+  <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60"/>
+  </p>
+
+  ### Diseño Web UX/UI y Actividad de Equipo | Design Web UX/UI & Teams Activity:
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
+  </p>
+</div>
+  
+</div>
+  
+</div>
+
+
+---
+
+## 📊 Estadisticas de GitHub | GitHub Stats:
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=josting62&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=josting62&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josting62&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+---
+
+## 🏆 Trofeos de GitHub | GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josting62&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🔝 Top de Contribuciones en Repositorios | Top Contributed Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=josting62&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=josting62&icon=2&color=11" alt="Visit Count"/>
+</p>
+
+---
+
+## 💰 Puedes ayudarme donando | You can help me by Donating:
+<p align="center">
+  <a href="https://buymeacoffee.com/jostinG62"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>
