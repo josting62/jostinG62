@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de Mi:
 👋 ¡Hola! Soy un desarrollador Junior Front-End apasionado por el mundo del desarrollo web y en constante crecimiento en el desarrollo Back-End. Con 21 años y siendo Colombo-Venezolano, me encanta enfrentar nuevos desafíos y aprender cada día para mejorar mis habilidades.<br><br>🚀 Mi objetivo es aportar mis conocimientos en proyectos innovadores, donde pueda colaborar con equipos y seguir expandiendo mi experiencia. Aunque aún estoy al comienzo de mi carrera, tengo un fuerte deseo de aprender, mejorar y dar lo mejor de mí en cada reto.<br><br>✨ Me destaco por mi curiosidad, capacidad para resolver problemas y ganas de crecer en el campo del desarrollo de software. ¡Estoy abierto a colaborar en proyectos que me permitan seguir aprendiendo y aportar valor al mismo tiempo!<br><br>🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!
 
 
