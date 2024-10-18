@@ -11,7 +11,7 @@
 
 ---
 
-👋 Hello! Mucho gusto I am a Junior Front-End developer passionate about the world of web development and constantly growing in Back-End development. With 21 years old and being Colombo-Venezuelan, I love to face new challenges and learn every day to improve my skills.
+👋 Hello! Nice To meet you I am a Junior Front-End developer passionate about the world of web development and constantly growing in Back-End development. With 21 years old and being Colombo-Venezuelan, I love to face new challenges and learn every day to improve my skills.
 
 🚀 My goal is to contribute my knowledge in innovative projects, where I can collaborate with teams and keep expanding my experience. Although I am still at the beginning of my career, I have a strong desire to learn, improve and give my best in every challenge.
 
