@@ -7,7 +7,7 @@
   
 <p>✨ Me destaco por mi curiosidad, capacidad para resolver problemas y ganas de crecer en el campo del desarrollo de software. ¡Estoy abierto a colaborar en proyectos que me permitan seguir aprendiendo y aportar valor al mismo tiempo!</p>
 
-🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!
+🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!.
 
 ---
 
