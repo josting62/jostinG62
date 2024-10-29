@@ -20,7 +20,7 @@ Translated with DeepL.com (free version)
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22tcxkulhevldzsn4v63dbiey)
 
 
-## 🌐 Redes Sociales | Socials:
+## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/jostin03_king"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60"/></a>
   <a href="https://linkedin.com/in/jostin-gomez03"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
@@ -29,13 +29,13 @@ Translated with DeepL.com (free version)
 
 ---
 
-## 💻 Habilidades Tecnologicas | Tech Stack:
+## 💻 Tech Stack:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin-right: 20px;">
 
-### Lenguajes de Programacion | Programming Languages:
+### Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
@@ -45,7 +45,7 @@ Translated with DeepL.com (free version)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
 </p>
 
-### Desarollo Front End | Front End Developer:
+### Front End Developer:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
@@ -69,7 +69,7 @@ Translated with DeepL.com (free version)
 
 <div style="flex: 1;">
   
-  ### Bases de Datos | Data Bases:
+  ### Data Bases:
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
@@ -80,7 +80,7 @@ Translated with DeepL.com (free version)
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60"/>
   </p>
 
-  ### Diseño Web UX/UI y Actividad de Equipo | Design Web UX/UI & Teams Activity:
+  ### Design Web UX/UI & Teams Activity:
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
@@ -94,7 +94,7 @@ Translated with DeepL.com (free version)
 
 ---
 
-## 📊 Estadisticas de GitHub | GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <table>
     <tr>
@@ -114,14 +114,14 @@ Translated with DeepL.com (free version)
 
 ---
 
-## 🏆 Trofeos de GitHub | GitHub Trophies:
+## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=josting62&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 🔝 Top de Contribuciones en Repositorios | Top Contributed Repo:
+### 🔝 Top Contributed Repo:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=josting62&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
@@ -134,7 +134,7 @@ Translated with DeepL.com (free version)
 
 ---
 
-## 💰 Puedes ayudarme donando | You can help me by Donating:
+## 💰 You can help me by Donating:
 <p align="center">
   <a href="https://buymeacoffee.com/jostinG62"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 </p>
