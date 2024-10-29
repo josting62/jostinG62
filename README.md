@@ -1,15 +1,5 @@
-# <h1 align="center">Hola Mi Nombre es Jostin Gomez ✌️</h1>
-# 💫 Acerca de Mi | About Me:
-
-<p>  👋 ¡Hola! Mucho gusto soy un desarrollador Junior Front-End apasionado por el mundo del desarrollo web y en constante crecimiento en el desarrollo Back-End. Con 21 años y siendo Colombo-Venezolano, me encanta enfrentar nuevos desafíos y aprender cada día para mejorar mis habilidades.</p>
-
-<p text-align="justify">🚀 Mi objetivo es aportar mis conocimientos en proyectos innovadores, donde pueda colaborar con equipos y seguir expandiendo mi experiencia. Aunque aún estoy al comienzo de mi carrera, tengo un fuerte deseo de aprender, mejorar y dar lo mejor de mí en cada reto.</p>
-  
-<p>✨ Me destaco por mi curiosidad, capacidad para resolver problemas y ganas de crecer en el campo del desarrollo de software. ¡Estoy abierto a colaborar en proyectos que me permitan seguir aprendiendo y aportar valor al mismo tiempo!</p>
-
-🔗 ¡No dudes en contactarme si tienes un proyecto en mente o si simplemente quieres conectar!.
-
----
+# <h1 align="center">Hello mi name is Jostin Gomez ✌️</h1>
+# 💫 About Me:
 
 👋 Hello! Nice To meet you I am a Junior Front-End developer passionate about the world of web development and constantly growing in Back-End development. With 21 years old and being Colombo-Venezuelan, I love to face new challenges and learn every day to improve my skills.
 
