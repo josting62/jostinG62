@@ -9,7 +9,6 @@
 
 🔗 Don't hesitate to contact me if you have a project in mind or if you just want to connect!
 
-Translated with DeepL.com (free version)
 
 ---
 
